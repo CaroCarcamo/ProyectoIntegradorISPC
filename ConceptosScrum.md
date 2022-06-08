@@ -15,3 +15,5 @@ https://www2.deloitte.com/es/es/pages/technology/articles/ceremonias-scrum.html
 https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles
 
 nose que escribir, y como no se voy a decir una sola cosa "hola mundo" :)
+
+sigo probando :)
