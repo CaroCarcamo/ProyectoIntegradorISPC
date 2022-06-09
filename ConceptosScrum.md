@@ -32,3 +32,5 @@ El responsable de este artefacto es el "Product Owner", encargado de añadir y o
 
 - Sprint Backlog o Lista de Objetivos Pendientes del Sprint
 El Sprint Backlog toma en cuenta elementos específicos del Product Backlog, en los que se centerará el sprint actual. Es por así llamarlo, una imagen del trabajo real que se está realizando en el momento. Se trata de un artefacto flexible, que se adapta a las necesidades, cambiando el orden del trabajo, quitando las tareas innecesarias, y agregando las que sean necesarias. Este listado lo supervisa el Scrum Master, y el Product Owner puede ayudarle a elaborarlo, finalmente es el equipo de desarrollo quien controla el listado.
+
+mhvljhvljhvlj
