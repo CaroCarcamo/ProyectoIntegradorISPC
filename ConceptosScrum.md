@@ -19,3 +19,13 @@
 -  **Product Owner:** Es una que toma las decisiones, y es la que realmente conoce el negocio del cliente y su vision del producto. Se encarga de escribir las ideas del cliente, las ordena por prioridad y las coloca en el Product Backlog.
 -  **ScrumMaster:** Es el líder servicial para el equipo Scrum. Es quien modera y facilita las interacciones del equipo como facilitador y motivador. Este rol es responsable de asegurar un ambiente de trabajo productivo para el equipo, debe protegerlo de influencias externas, despejar los obstáculos y garantizar que se cumplan los principios, aspectos y procesos de la metodología Scrum.
 -  **El Scrum Team:** también es conocido como equipo de desarrollo, ya que es responsable del desarrollo, servicio o de cualquier otro resultado. Consiste en un grupo de personas que trabajan en las historias de usuario en la lista de pendientes del sprint para crear los entregables del proyecto. Nadie, ni siquiera el Scrum Master, indica al Scrum Team cómo cumplir los objetivos del sprint, es un equipo auto gestionado y multifuncional que cuenta con todas las habilidades necesarias. El tamaño óptimo de un equipo Scrum es de seis a diez miembros.
+
+ARTEFACTOS SCRUM
+Los artefactos son todos los elementos que garantizan la transparencia y el registro de la información fundamental del proceso Scrum. Su objetivo es evitar el riesgo de una mala comunicación y un mal manejo de información en la entrega del proyecto scrum.
+Los artefactos de Scrum son:
+** Product Backlog
+** Sprint Backlog
+** Increment
+
+- Product Backlog (PB): lista ordenada con todo lo que necesita un producto para cumplir las necesidades de los clientes potenciales y única fuente de requisitos para realizar modificaciones en él.
+El responsable de este artefacto es el "Product Owner", encargado de añadir y ordenar items.
