@@ -39,6 +39,9 @@ La definición de hecho, la decide y define el equipo, y será aplicado a todos 
 - **Burndown chart o Diagrama de Quemado**   
 El diagrama de quemado se usa para medir el progreso general de un proyecto. Da una visión a largo plazo del trabajo terminado y del trabajo por realizar. Mide la velocidad, y compara con el trabajo estimado con el trabajo realmente realizado, dando un aporte de realismo al equipo.
 
+- **¿Cuáles son las ceremonias del Scrum?**
+Las ceremonias del scrum, o los eventos del scrum, son una parte importante del progeso ágil de un proyecto. Las cuatro ceremonias principales son las reuniones que tienen lugar en las iteraciones o sprints, y que pretenden asegurar el rápido y constante progreso del equipo Scrum, a la par que mejora continuamente su forma de trabajar.
+
 
 >### Documentacion:
 ><https://www2.deloitte.com/es/es/pages/technology/articles/ceremonias-scrum.html>  
