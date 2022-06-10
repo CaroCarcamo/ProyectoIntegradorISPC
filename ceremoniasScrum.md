@@ -14,6 +14,7 @@ Un Sprint normal tendría los siguiente eventos o ceremonias:
 
 -Adicionalmente se ha incorporado también una reunión de Grooming o Refinement, que sirve para, dentro del Sprint, afinar y aclarar ciertas historias de usuario que pudieron quedar pendientes durante el Sprint Planning.
 
+-Todo ocurre en un sólo Sprint y en cada Sprint. La mentalidad de un proyecto por Sprint es uno de los cambios más difíciles de asumir para las organizaciones que están haciendo una transición a esta metodología Agile-Scrum. A diferencia de la gestión tradicional de proyectos, donde un proyecto puede durar meses o años, en Scrum un “proyecto” dura un sólo un Sprint, de modo que todas las tareas necesarias para llevar el proyecto a cabo (como el diseño, la planificación o el testing) se realizan dentro del mismo Sprint, siempre orientado a generar el máximo valor.
 Documentacion:
 https://www2.deloitte.com/es/es/pages/technology/articles/ceremonias-scrum.html
 https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles
