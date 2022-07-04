@@ -45,5 +45,5 @@ Las ceremonias del scrum, o los eventos del scrum, son una parte importante del 
 
 >### Documentacion:
 ><https://www2.deloitte.com/es/es/pages/technology/articles/ceremonias-scrum.html>  
-><https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles>.
+><https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles>
 > <https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf>.
